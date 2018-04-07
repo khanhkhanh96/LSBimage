@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0-*",
+    "description": "ConsoleApp2 Console Application",
+    "authors": [ "KHANH-PC" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "CoreCompat.System.Drawing": "1.0.0-beta006"
+    },
+
+    "commands": {
+        "ConsoleApp2": "ConsoleApp2"
+    },
+
+    "frameworks": {
+        "dnx451": { }
+    }
+}

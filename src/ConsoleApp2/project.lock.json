@@ -1,0 +1,34 @@
+{
+  "locked": false,
+  "version": -9996,
+  "targets": {
+    "DNX,Version=v4.5.1": {
+      "CoreCompat.System.Drawing/1.0.0-beta006": {
+        "compile": {
+          "lib/net45/CoreCompat.System.Drawing.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CoreCompat.System.Drawing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreCompat.System.Drawing/1.0.0-beta006": {
+      "sha512": "KOBeVy8FHx9zkXrIZAM8OdXPrimROmvfB02fOegrYIelNN/zWhsOwzONgD7gw7wOTJgAFfdwpme5CiMraJj47Q==",
+      "files": [
+        "CoreCompat.System.Drawing.1.0.0-beta006.nupkg",
+        "CoreCompat.System.Drawing.1.0.0-beta006.nupkg.sha512",
+        "CoreCompat.System.Drawing.nuspec",
+        "lib/net45/CoreCompat.System.Drawing.dll",
+        "lib/netstandard1.3/CoreCompat.System.Drawing.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "CoreCompat.System.Drawing >= 1.0.0-beta006"
+    ],
+    "DNX,Version=v4.5.1": []
+  }
+}
